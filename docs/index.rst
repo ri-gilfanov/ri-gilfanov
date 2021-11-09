@@ -12,7 +12,7 @@
 
    architecture
    db_scheme
-   sqlalchemy
+   python/index
 
 
 Указатели и таблицы
